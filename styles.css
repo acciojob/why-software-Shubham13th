@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+body {
+	font:sans-serif;
+}
+h1 {
+	color:red;
+	background-color: #ffe6e6;
+	padding:4px;
+	border-radius:10px;
+	font-weight: bold;
+}
+
+p {
+	color:#333333;
+	font-size:20px;
+	background-color:#fdf6e3;
+	padding:4px 8px;
+	border-radius:10px;
+}
